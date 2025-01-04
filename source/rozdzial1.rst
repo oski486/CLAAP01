@@ -1,0 +1,4 @@
+Rozdział 1: Wprowadzenie
+====================
+
+Gry komputerowe są jednym z najdynamiczniej rozwijających się segmentów przemysłu rozrywkowego. Od ich początków w latach 50. XX wieku, przekształciły się w zaawansowane produkcje, które łączą w sobie elementy sztuki, technologii oraz interaktywności. Dzisiejsze gry wykorzystują technologię na niespotykaną wcześniej skalę, a ich wpływ wykracza daleko poza rozrywkę – obejmując edukację, medycynę, kulturę, a nawet naukę. Celem tej pracy jest przedstawienie historii gier komputerowych, ich technologicznego rozwoju oraz wpływu na współczesną kulturę i gospodarkę, z uwzględnieniem technologii takich jak VR, AR oraz sztucznej inteligencji, które kształtują przyszłość gier i innych dziedzin technologii.
